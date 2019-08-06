@@ -1,0 +1,11 @@
+{
+  "name": "ALG_eval_expr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@git.epitech.eu:/bilal.beldjilali@epitech.eu/ALG_eval_expr",
+  "author": "<bilal.beldjilali@epitech.eu>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
